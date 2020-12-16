@@ -1,0 +1,137 @@
+{
+  "data": "Website Builder Website",
+  "name": "@",
+  "ttl": 600,
+  "type": "A"
+}
+{
+  "data": "ns01.domaincontrol.com",
+  "name": "@",
+  "ttl": 3600,
+  "type": "NS"
+}
+{
+  "data": "ns02.domaincontrol.com",
+  "name": "@",
+  "ttl": 3600,
+  "type": "NS"
+}
+{
+  "data": "autodiscover.outlook.com",
+  "name": "autodiscover",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "enterpriseenrollment.manage.microsoft.com",
+  "name": "enterpriseenrollment",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "enterpriseregistration.windows.net",
+  "name": "enterpriseregistration",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "@",
+  "name": "ftp",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "webdir.online.lync.com",
+  "name": "lyncdiscover",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "clientconfig.microsoftonline-p.net",
+  "name": "msoid",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "selector1-cloudsphere-co-uk._domainkey.cloudsphereltd.onmicrosoft.com",
+  "name": "selector1._domainkey",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "selector2-cloudsphere-co-uk._domainkey.cloudsphereltd.onmicrosoft.com",
+  "name": "selector2._domainkey",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "sipdir.online.lync.com",
+  "name": "sip",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "@",
+  "name": "www",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "_domainconnect.gd.domaincontrol.com",
+  "name": "_domainconnect",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "cloudsphere-co-uk.mail.protection.outlook.com",
+  "name": "@",
+  "priority": 0,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "google-site-verification=8if2NnoQalR6AWWnW2Ye9r2Q96CizMVydZax9XBYSnc",
+  "name": "@",
+  "ttl": 3600,
+  "type": "TXT"
+}
+{
+  "data": "MS=ms92788631",
+  "name": "@",
+  "ttl": 3600,
+  "type": "TXT"
+}
+{
+  "data": "v=spf1 include:spf.protection.outlook.com include:_spf.google.com -all",
+  "name": "@",
+  "ttl": 3600,
+  "type": "TXT"
+}
+{
+  "data": "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkOpJZ5MBOuNu9IpFBiDPeEASsc/Bah+WnkAZXXzQPEC4YK++AnUF2JjO7QScRpyqXynDcOagnaYXv62mHZ/yRWMjOz6NvtSejEC/VYY8Au+6tQGW1KshaaETiU+RrydGkI1iLs+KcDM9tUVbvJ/YG8CP9dhIftqDjvuECx+4VsEvwz2v1Y5L2h8QPFLujktEMD+aMYOe0Rp8eFy6XQXJPrDJLNJ+O6z9hj8j2vMbGBkQkSvjCKOWSCLOXq+7lQv3Tu2EnpY+D3Yl5fSebYMOlE52QZyn4ReCM1PcbiBRs6D30AkcDQI6/J71Bg+dG9gVQK0RxDQ7GX/frK3/vemybwIDAQAB",
+  "name": "google._domainkey",
+  "ttl": 3600,
+  "type": "TXT"
+}
+{
+  "data": "sipdir.online.lync.com",
+  "name": "@",
+  "port": 443,
+  "priority": 100,
+  "protocol": "_tls",
+  "service": "_sip",
+  "ttl": 3600,
+  "type": "SRV",
+  "weight": 1
+}
+{
+  "data": "sipfed.online.lync.com",
+  "name": "@",
+  "port": 5061,
+  "priority": 100,
+  "protocol": "_tcp",
+  "service": "_sipfederationtls",
+  "ttl": 3600,
+  "type": "SRV",
+  "weight": 1
+}

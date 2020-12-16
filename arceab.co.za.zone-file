@@ -1,0 +1,71 @@
+{
+  "data": "Parked",
+  "name": "@",
+  "ttl": 600,
+  "type": "A"
+}
+{
+  "data": "ns15.domaincontrol.com",
+  "name": "@",
+  "ttl": 3600,
+  "type": "NS"
+}
+{
+  "data": "ns16.domaincontrol.com",
+  "name": "@",
+  "ttl": 3600,
+  "type": "NS"
+}
+{
+  "data": "@",
+  "name": "www",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "_domainconnect.gd.domaincontrol.com",
+  "name": "_domainconnect",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "aspmx.l.google.com",
+  "name": "@",
+  "priority": 1,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "alt3.aspmx.l.google.com",
+  "name": "@",
+  "priority": 10,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "alt4.aspmx.l.google.com",
+  "name": "@",
+  "priority": 10,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "alt1.aspmx.l.google.com",
+  "name": "@",
+  "priority": 5,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "alt2.aspmx.l.google.com",
+  "name": "@",
+  "priority": 5,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "MS=ms74619283",
+  "name": "@",
+  "ttl": 3600,
+  "type": "TXT"
+}

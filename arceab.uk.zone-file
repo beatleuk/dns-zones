@@ -1,0 +1,77 @@
+{
+  "data": "Parked",
+  "name": "@",
+  "ttl": 600,
+  "type": "A"
+}
+{
+  "data": "ns47.domaincontrol.com",
+  "name": "@",
+  "ttl": 3600,
+  "type": "NS"
+}
+{
+  "data": "ns48.domaincontrol.com",
+  "name": "@",
+  "ttl": 3600,
+  "type": "NS"
+}
+{
+  "data": "@",
+  "name": "www",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "_domainconnect.gd.domaincontrol.com",
+  "name": "_domainconnect",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "aspmx.l.google.com",
+  "name": "@",
+  "priority": 10,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "alt1.aspmx.l.google.com",
+  "name": "@",
+  "priority": 20,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "alt2.aspmx.l.google.com",
+  "name": "@",
+  "priority": 30,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "aspmx2.googlemail.com",
+  "name": "@",
+  "priority": 40,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "aspmx3.googlemail.com",
+  "name": "@",
+  "priority": 50,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "google-site-verification=JobKuzLXcAUWqa8Dq876QE99z0hiJwmQpkozDC9i3QE",
+  "name": "@",
+  "ttl": 3600,
+  "type": "TXT"
+}
+{
+  "data": "MS=ms12106366",
+  "name": "@",
+  "ttl": 3600,
+  "type": "TXT"
+}

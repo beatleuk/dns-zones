@@ -1,0 +1,197 @@
+{
+  "data": "216.239.32.21",
+  "name": "@",
+  "ttl": 3600,
+  "type": "A"
+}
+{
+  "data": "216.239.34.21",
+  "name": "@",
+  "ttl": 3600,
+  "type": "A"
+}
+{
+  "data": "216.239.36.21",
+  "name": "@",
+  "ttl": 3600,
+  "type": "A"
+}
+{
+  "data": "216.239.38.21",
+  "name": "@",
+  "ttl": 3600,
+  "type": "A"
+}
+{
+  "data": "ns55.domaincontrol.com",
+  "name": "@",
+  "ttl": 3600,
+  "type": "NS"
+}
+{
+  "data": "ns56.domaincontrol.com",
+  "name": "@",
+  "ttl": 3600,
+  "type": "NS"
+}
+{
+  "data": "autodiscover.outlook.com",
+  "name": "autodiscover",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "ghs.google.com",
+  "name": "calendar",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "ghs.google.com",
+  "name": "docs",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "enterpriseenrollment.manage.microsoft.com",
+  "name": "enterpriseenrollment",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "enterpriseregistration.windows.net",
+  "name": "enterpriseregistration",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "google.com",
+  "name": "googlebeceb5df325b5dcb",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "webdir.online.lync.com",
+  "name": "lyncdiscover",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "clientconfig.microsoftonline-p.net",
+  "name": "msoid",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "sipdir.online.lync.com",
+  "name": "sip",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "ghs.google.com",
+  "name": "sites",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "ghs.google.com",
+  "name": "webmail",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "ghs.google.com",
+  "name": "www",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "_domainconnect.gd.domaincontrol.com",
+  "name": "_domainconnect",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "aspmx.l.google.com",
+  "name": "@",
+  "priority": 10,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "alt1.aspmx.l.google.com",
+  "name": "@",
+  "priority": 20,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "alt2.aspmx.l.google.com",
+  "name": "@",
+  "priority": 20,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "aspmx2.googlemail.com",
+  "name": "@",
+  "priority": 30,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "aspmx3.googlemail.com",
+  "name": "@",
+  "priority": 30,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "aspmx4.googlemail.com",
+  "name": "@",
+  "priority": 30,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "aspmx5.googlemail.com",
+  "name": "@",
+  "priority": 30,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "v=spf1 include:_spf.google.com include:spf.protection.outlook.com ~all",
+  "name": "@",
+  "ttl": 3600,
+  "type": "TXT"
+}
+{
+  "data": "v=verifydomain MS=4564640",
+  "name": "@",
+  "ttl": 3600,
+  "type": "TXT"
+}
+{
+  "data": "sipdir.online.lync.com",
+  "name": "@",
+  "port": 443,
+  "priority": 100,
+  "protocol": "_tls",
+  "service": "_sip",
+  "ttl": 3600,
+  "type": "SRV",
+  "weight": 1
+}
+{
+  "data": "sipfed.online.lync.com",
+  "name": "@",
+  "port": 5061,
+  "priority": 100,
+  "protocol": "_tcp",
+  "service": "_sipfederationtls",
+  "ttl": 3600,
+  "type": "SRV",
+  "weight": 1
+}

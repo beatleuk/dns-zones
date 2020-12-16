@@ -1,0 +1,208 @@
+{
+  "data": "216.239.32.21",
+  "name": "@",
+  "ttl": 3600,
+  "type": "A"
+}
+{
+  "data": "216.239.34.21",
+  "name": "@",
+  "ttl": 3600,
+  "type": "A"
+}
+{
+  "data": "216.239.36.21",
+  "name": "@",
+  "ttl": 3600,
+  "type": "A"
+}
+{
+  "data": "216.239.38.21",
+  "name": "@",
+  "ttl": 3600,
+  "type": "A"
+}
+{
+  "data": "216.239.32.21",
+  "name": "apps100",
+  "ttl": 3600,
+  "type": "A"
+}
+{
+  "data": "176.34.121.206",
+  "name": "ip-qae2",
+  "ttl": 3600,
+  "type": "A"
+}
+{
+  "data": "216.239.32.21",
+  "name": "subdom",
+  "ttl": 3600,
+  "type": "A"
+}
+{
+  "data": "54.247.117.195",
+  "name": "ubuntu-smtp",
+  "ttl": 3600,
+  "type": "A"
+}
+{
+  "data": "ns29.domaincontrol.com",
+  "name": "@",
+  "ttl": 3600,
+  "type": "NS"
+}
+{
+  "data": "ns30.domaincontrol.com",
+  "name": "@",
+  "ttl": 3600,
+  "type": "NS"
+}
+{
+  "data": "ghs.google.com",
+  "name": "calendar",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "ghs.google.com",
+  "name": "docs",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "ghs.google.com",
+  "name": "groups",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "ghs.google.com",
+  "name": "links",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "ghs.google.com",
+  "name": "sites",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "ubuntu-smtp.gapps4you.com",
+  "name": "smtp",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "ghs.google.com",
+  "name": "start",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "ghs.google.com",
+  "name": "video",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "ghs.google.com",
+  "name": "wave",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "ghs.google.com",
+  "name": "webmail",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "ghs.google.com",
+  "name": "www",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "_domainconnect.gd.domaincontrol.com",
+  "name": "_domainconnect",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "aspmx.l.google.com",
+  "name": "@",
+  "priority": 1,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "aspmx2.googlemail.com",
+  "name": "@",
+  "priority": 10,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "aspmx3.googlemail.com",
+  "name": "@",
+  "priority": 10,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "alt1.aspmx.l.google.com",
+  "name": "@",
+  "priority": 5,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "alt2.aspmx.l.google.com",
+  "name": "@",
+  "priority": 5,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "aspmx.l.google.com",
+  "name": "subdom",
+  "priority": 10,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "aspmx2.googlemail.com",
+  "name": "subdom",
+  "priority": 10,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "aspmx3.googlemail.com",
+  "name": "subdom",
+  "priority": 10,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "alt1.aspmx.l.google.com",
+  "name": "subdom",
+  "priority": 5,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "alt2.aspmx.l.google.com",
+  "name": "subdom",
+  "priority": 5,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "v=spf1 mx include:_spf.google.com ~all",
+  "name": "@",
+  "ttl": 3600,
+  "type": "TXT"
+}

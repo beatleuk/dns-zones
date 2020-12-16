@@ -1,0 +1,139 @@
+{
+  "data": "Parked",
+  "name": "@",
+  "ttl": 600,
+  "type": "A"
+}
+{
+  "data": "176.34.122.67",
+  "name": "beatleitlampx64",
+  "ttl": 3600,
+  "type": "A"
+}
+{
+  "data": "54.247.118.143",
+  "name": "dbsvr",
+  "ttl": 3600,
+  "type": "A"
+}
+{
+  "data": "54.247.190.219",
+  "name": "websvr",
+  "ttl": 3600,
+  "type": "A"
+}
+{
+  "data": "ns11.domaincontrol.com",
+  "name": "@",
+  "ttl": 3600,
+  "type": "NS"
+}
+{
+  "data": "ns12.domaincontrol.com",
+  "name": "@",
+  "ttl": 3600,
+  "type": "NS"
+}
+{
+  "data": "ghs.google.com",
+  "name": "calendar",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "ghs.google.com",
+  "name": "docs",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "websvr.beatleit.co.uk",
+  "name": "ftp",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "ghs.google.com",
+  "name": "mail",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "websvr.beatleit.co.uk",
+  "name": "shop",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "ghs.google.com",
+  "name": "webmail",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "websvr.beatleit.co.uk",
+  "name": "www",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "_domainconnect.gd.domaincontrol.com",
+  "name": "_domainconnect",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "aspmx.l.google.com",
+  "name": "@",
+  "priority": 10,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "alt1.aspmx.l.google.com",
+  "name": "@",
+  "priority": 20,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "alt2.aspmx.l.google.com",
+  "name": "@",
+  "priority": 20,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "aspmx2.googlemail.com",
+  "name": "@",
+  "priority": 30,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "aspmx3.googlemail.com",
+  "name": "@",
+  "priority": 30,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "aspmx4.googlemail.com",
+  "name": "@",
+  "priority": 30,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "aspmx5.googlemail.com",
+  "name": "@",
+  "priority": 30,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "v=spf1 include:_spf.google.com ~all",
+  "name": "@",
+  "ttl": 3600,
+  "type": "TXT"
+}
