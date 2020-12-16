@@ -1,0 +1,131 @@
+{
+  "data": "216.239.32.21",
+  "name": "@",
+  "ttl": 3600,
+  "type": "A"
+}
+{
+  "data": "216.239.34.21",
+  "name": "@",
+  "ttl": 3600,
+  "type": "A"
+}
+{
+  "data": "216.239.36.21",
+  "name": "@",
+  "ttl": 3600,
+  "type": "A"
+}
+{
+  "data": "216.239.38.21",
+  "name": "@",
+  "ttl": 3600,
+  "type": "A"
+}
+{
+  "data": "ns21.domaincontrol.com",
+  "name": "@",
+  "ttl": 3600,
+  "type": "NS"
+}
+{
+  "data": "ns22.domaincontrol.com",
+  "name": "@",
+  "ttl": 3600,
+  "type": "NS"
+}
+{
+  "data": "ghs.google.com",
+  "name": "calendar",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "ghs.google.com",
+  "name": "classifieds",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "ghs.google.com",
+  "name": "docs",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "ghs.google.com",
+  "name": "sites",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "ghs.google.com",
+  "name": "webmail",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "ghs.google.com",
+  "name": "www",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "_domainconnect.gd.domaincontrol.com",
+  "name": "_domainconnect",
+  "ttl": 3600,
+  "type": "CNAME"
+}
+{
+  "data": "aspmx.l.google.com",
+  "name": "@",
+  "priority": 1,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "alt3.aspmx.l.google.com",
+  "name": "@",
+  "priority": 10,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "alt4.aspmx.l.google.com",
+  "name": "@",
+  "priority": 10,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "alt1.aspmx.l.google.com",
+  "name": "@",
+  "priority": 5,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "alt2.aspmx.l.google.com",
+  "name": "@",
+  "priority": 5,
+  "ttl": 3600,
+  "type": "MX"
+}
+{
+  "data": "v=spf1 include:_spf.google.com -all",
+  "name": "@",
+  "ttl": 3600,
+  "type": "TXT"
+}
+{
+  "data": "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCFZMm1LrGHQ11H1yBs7daYqFLWH8cSeHHmSZ3LUrDR/RYmG2LZJjp75mjQXsBMdQ7s7jC5O4gsn4MckkOHnLxaMzuUTe++wiI1Xfzhpjm5pJsAU4S+AhybJtSgB+RuaIgXOqwyvIlT2FBouNuyaYbWkuxoVbNuAllq4L8LOeNhTwIDAQAB",
+  "name": "google._domainkey",
+  "ttl": 3600,
+  "type": "TXT"
+}
+{
+  "data": "v=DMARC1; p=quarantine; pct=25; rua=mailto:iv0agcg7@ag.dmarcian.com",
+  "name": "_dmarc",
+  "ttl": 3600,
+  "type": "TXT"
+}
